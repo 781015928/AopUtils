@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+          package="com.czg.aoputils"
+>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true"
+    >
+        <activity
+
+            android:theme="@style/PermissionsShadowActivity"
+            android:name="com.czg.aoputils.permission.PermissionsShadowActivity">
+        </activity>
+    </application>
+</manifest>

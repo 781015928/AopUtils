@@ -1,0 +1,8 @@
+<resources>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="permission_not_available">Permissions are not available !</string>
+    <string name="permission_to_success">Permission to succeed !</string>
+    <string name="permission_not_available_msg">Please in the application settings - permissions - to allow the use of authority, otherwise it will cause the function can not be used normally!</string>
+</resources>
+

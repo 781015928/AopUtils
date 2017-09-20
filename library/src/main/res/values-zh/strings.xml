@@ -1,0 +1,8 @@
+<resources>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="permission_not_available">权限不可用！</string>
+    <string name="permission_to_success">权限获取成功！</string>
+    <string name="permission_not_available_msg">请在-应用设置-权限-中，允许使用权限,否则会导致功能无法正常使用！</string>
+</resources>
+
